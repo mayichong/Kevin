@@ -1,7 +1,1 @@
-This is my first time using github
-
-Let's test it!
-
-Oooops, test number 2!
-
-Let's do test number 3!
+Bug Fix!
